@@ -1,3 +1,5 @@
 {
-    "cmake.sourceDirectory": "/home/deimos/FLUTTER/libs/shader_buffers/example/linux"
+    "cmake.sourceDirectory": "/home/deimos/FLUTTER/libs/shader_buffers/example/linux",
+
+  "dart.lineLength": 80,
 }
